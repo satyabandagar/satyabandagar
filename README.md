@@ -13,9 +13,6 @@
 
 ---
 
-### 🔭 I’m currently working on:
-[Truck Management System](https://github.com/satyabandagar/truck-track)
-
 ### 🌱 I’m currently learning:
 **Java Full Stack Development**
 
@@ -23,7 +20,7 @@
 [AI Resume Builder](https://github.com/satyabandagar/Ai-resume-biulder)
 
 ### 👨‍💻 My Portfolio:
-[Click to View Portfolio](https://68862ce76d69ea594cece5f5--satyabandagarportfolio.netlify.app/)
+[Click to View Portfolio](https://satyabandagarportfolio.netlify.app/)
 
 ### 💬 Ask me about:
 **React.js**
