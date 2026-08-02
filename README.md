@@ -2,7 +2,7 @@
 <h3 align="center">Java Full Stack Developer | Spring Boot | Core Java | MySQL</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyabandagar&label=Profile%20views&color=0e75b6&style=flat" alt="satyabandagar" />
+  <img src="https://photos.google.com/photo/AF1QipMGvpVZUikQGsELvIQKqoyJehk1vVDNjFDSurML" alt="satyabandagar" />
 </p>
 
 <p align="center">
