@@ -7,8 +7,8 @@
       <h1>Hi 👋, I'm Satyappa Bandagar</h1>
       <h3>Java Full Stack Developer</h3>
 
-      💻 Spring Boot | Core Java | MySQL | React.js <br>
-      🚀 Passionate about Java Backend & Full Stack Development <br>
+      💻 Spring Boot | Core Java | MySQL | React.js 
+      🚀 Passionate about Java Backend & Full Stack Development 
       📍 Maharashtra, India
   </tr>
 </table>
