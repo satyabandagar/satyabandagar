@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Satyappa Bandagar</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot | Core Java | MySQL</h3>
 
 <p align="center">
-  <img src="https://photos.google.com/photo/AF1QipMGvpVZUikQGsELvIQKqoyJehk1vVDNjFDSurML" alt="satyabandagar" />
+  <img src="https://drive.google.com/file/d/1RQFUEG-8Yv0s7GLyI2CN9waMDX8C-_Kv/view?usp=sharing" width="180" style="border-radius:50%;" alt="Satyappa Bandagar"/>
 </p>
+
+<h3 align="center">Java Full Stack Developer | Spring Boot | Core Java | MySQL</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
