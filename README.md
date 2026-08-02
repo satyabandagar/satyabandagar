@@ -1,10 +1,18 @@
-<h1 align="center">Hi 👋, I'm Satyappa Bandagar</h1>
+<table>
+  <tr>
+    <td width="220" align="center">
+      <img src="/image/satya photo1-modified.png" width="180" alt="Satyappa Bandagar">
+    </td>
+    <td>
+      <h1>Hi 👋, I'm Satyappa Bandagar</h1>
+      <h3>Java Full Stack Developer</h3>
 
-<p align="center">
-  <img src="./image/satya photo1.jpeg" width="180" style="border-radius:50%;" alt="Satyappa Bandagar"/>
-</p>
-
-<h3 align="center">Java Full Stack Developer | Spring Boot | Core Java | MySQL</h3>
+      💻 Spring Boot | Core Java | MySQL | React.js <br>
+      🚀 Passionate about Java Backend & Full Stack Development <br>
+      📍 Maharashtra, India
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
