@@ -10,7 +10,6 @@
       💻 Spring Boot | Core Java | MySQL | React.js <br>
       🚀 Passionate about Java Backend & Full Stack Development <br>
       📍 Maharashtra, India
-    </td>
   </tr>
 </table>
 
