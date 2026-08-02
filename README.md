@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyappa Bandagar</h1>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1RQFUEG-8Yv0s7GLyI2CN9waMDX8C-_Kv/view?usp=sharing" width="180" style="border-radius:50%;" alt="Satyappa Bandagar"/>
+  <img src="./image/satya photo1.jpeg" width="180" style="border-radius:50%;" alt="Satyappa Bandagar"/>
 </p>
 
 <h3 align="center">Java Full Stack Developer | Spring Boot | Core Java | MySQL</h3>
@@ -14,8 +14,8 @@
 
 ---
 
-### 🌱 I’m currently learning:
-**Java Full Stack Development (Spring Boot, Spring Data JPA, REST APIs, MySQL)**
+### 🌱 Professional Summary
+**Completed Java Full Stack Development training with hands-on experience in Core Java, Advanced Java, JDBC, Spring Boot, Spring Data JPA, REST APIs, MySQL, HTML, CSS, JavaScript, and React.js.**
 
 ### 👯 I’m looking to collaborate on:
 [AI Resume Builder](https://github.com/satyabandagar/Ai-resume-biulder)
